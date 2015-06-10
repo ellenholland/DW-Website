@@ -1,0 +1,60 @@
+* { 
+   padding: 0; 
+   margin: 0;
+}
+
+body { 
+	background-color: #EBE7EE; 
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {  
+	width: 100%; 
+	height: 92vh; 
+	background-color: #551a8b;
+}
+
+header #message {
+	position: relative;
+	text-align: center;
+	width: 70%; 
+	color: #EBE7EE; 
+	font-size: 2em; 
+	margin: 0 auto; 
+	top: 30%; 
+}
+
+nav { 
+	width: 100%; 
+	height: 7.5vh; 
+	text-align: center;
+}
+
+nav div { 
+	width: 25%; 
+	float: left;
+	background-color: #EBE7EE; 
+	height: 100%; 
+}
+
+nav a, a:visited { 
+	position: relative;
+	top: 30%; 
+	color: #551a8b;
+	text-decoration: none;
+	font-size: 1.2em; 
+}
+
+.pagebreak { 
+	background-color: #551a8b; 
+	height: 5px; 
+}
+
+#welcome{ 
+	color: white; 
+	text-align: center;
+}
+
+#aboutus, #theteam, #meetings { 
+	height: 100vh;
+}
