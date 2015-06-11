@@ -9,22 +9,21 @@ body {
 	font-weight: Light 300; 
 }
 
-header {  
-	width: 100%; 
-	height: 92vh; 
+#particles-js{
 	background-color: #551a8b;
+	height: 92vh;
+	width: 100%;
+
 }
 
-/*header #message {
+#welcome { 
 	position: absolute;
+	width: 100%; 
+	font-size: 3em; 
 	text-align: center;
-	width: 70%; 
 	color: #EBE7EE; 
-	font-size: 2em; 
-	margin: 0 auto; 
 	top: 30%; 
-	z-index: 100000; 
-}*/
+}
 
 nav { 
 	width: 100%; 
@@ -33,7 +32,7 @@ nav {
 }
 
 nav div { 
-	width: 25%; 
+	width: 20%; 
 	float: left;
 	background-color: #EBE7EE; 
 	height: 100%; 
@@ -52,16 +51,27 @@ nav a, a:visited {
 	height: 5px; 
 }
 
-#welcome{ 
-	color: white; 
-	text-align: center;
+#aboutus, #theteam, #meetings {  
+	height: 100vh; 
 }
 
-#aboutus, #theteam, #meetings { 
-	height: 100vh;
+.special { 
+	position: relative;
+	font-family: 'Pacifico', cursive;
+	color: #551a8b; 
+	float: right;
+	right: 50px;
+	font-size: 5em; 
+	margin-top: 20px;  
+}
+
+#grouppic { 
+	width: 500px; 
 }
 
 footer { 
+	position: relative;
+	bottom: 0px;
 	width: 100%; 
 	height: 20vh; 
 	background-color: #551a8b; 
@@ -73,24 +83,4 @@ footer img {
 	height: 50%; 
 	display: block;
 	margin: 0 auto;
-}
-
-.special { 
-	position: relative;
-	font-family: 'Pacifico', cursive;
-	color: #551a8b; 
-	margin-top: 10px; 
-	float: right;
-	right: 50px;
-	font-size: 5em; 
-}
-
-.particles { 
-	width:100%;
-	height:inherit;
-	display:block;
-}
-
-#particles-js{
-  height:100%;  
 }
