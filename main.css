@@ -52,7 +52,8 @@ nav a, a:visited {
 }
 
 #aboutus, #theteam, #meetings {  
-	height: 100vh; 
+	height: 100%; 
+	padding-bottom: 3em;
 }
 
 .special { 
@@ -83,4 +84,15 @@ footer img {
 	height: 50%; 
 	display: block;
 	margin: 0 auto;
+}
+
+.info-container { 
+	position: relative;
+	width: 80%; 
+	margin: 0 auto;
+}
+
+.info-container img { 
+	float: left;
+	margin-right: 1em; 
 }
