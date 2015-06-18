@@ -19,7 +19,7 @@ body {
 #welcome { 
 	position: absolute;
 	width: 100%; 
-	font-size: 3em; 
+	font-size: 300%; 
 	text-align: center;
 	color: #EBE7EE; 
 	top: 30%; 
@@ -66,10 +66,6 @@ nav a, a:visited {
 	margin-top: 20px;  
 }
 
-#grouppic { 
-	width: 500px; 
-}
-
 footer { 
 	position: relative;
 	bottom: 0px;
@@ -90,9 +86,4 @@ footer img {
 	position: relative;
 	width: 80%; 
 	margin: 0 auto;
-}
-
-.info-container img { 
-	float: left;
-	margin-right: 1em; 
 }
