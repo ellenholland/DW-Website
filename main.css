@@ -92,7 +92,6 @@ footer img {
 	margin-right: 1em;
 	float: left;
 }
-
 #meetings table { 
 	position: relative;
 	margin: 0 auto;
@@ -106,4 +105,11 @@ footer img {
 
 #meetings th { 
 	font-family: 'Pacifico', cursive;
+	color: #EBE7EE;
+	background-color: #551a8b; 
+	font-size: 25px; 
+}
+
+.table-shadow { 
+	background-color: #BCB9BE; 
 }
