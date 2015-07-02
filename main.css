@@ -92,7 +92,17 @@ footer img {
 	margin-right: 1em;
 	float: left;
 }
-
-#elevator-pitch { 
-
+#meetings table { 
+	position: relative;
+	margin: 0 auto;
+	width: 90%; 
 }
+
+#meetings table td { 
+	text-align: center;
+	padding: 5px; 
+}
+
+#meetings th { 
+	font-family: 'Pacifico', cursive;
+} 
