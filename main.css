@@ -113,3 +113,25 @@ footer img {
 .table-shadow { 
 	background-color: #BCB9BE; 
 }
+
+#team-left { 
+	float: left;
+	width: 49%; 
+	margin-right: 10px
+}
+
+#team-right { 
+	float: right; 
+	width: 49%;  
+}
+
+#theteam img { 
+	width: 100px; 
+	float: left;
+	padding-right: 15px; 
+} 
+
+.position-special { 
+	font-weight: bolder;
+	font-size: 1.3em; 
+}
