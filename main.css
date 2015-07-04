@@ -7,6 +7,7 @@ body {
 	background-color: #EBE7EE; 
 	font-family: 'Open Sans', sans-serif;
 	font-weight: Light 300; 
+	color: #2F2E30;
 }
 
 #particles-js{
@@ -148,4 +149,17 @@ footer img {
 	color: #551a8b;
 	text-align: center;
 	width: 23%; 
+}
+
+.about-special { 
+	font-weight: bolder; 
+}
+
+.icon a { 
+	color: #551a8b;
+	text-decoration: none;
+}
+
+#aboutus a, #theteam a { 
+	color: #2F2E30;
 }
