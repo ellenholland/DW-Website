@@ -106,10 +106,10 @@ footer img {
 }
 
 #meetings th { 
-	font-family: 'Pacifico', cursive;
 	color: #EBE7EE;
 	background-color: #551a8b; 
 	font-size: 25px; 
+	padding-bottom: 5px; 
 }
 
 .table-shadow { 
