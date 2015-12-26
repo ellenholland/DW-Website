@@ -16,7 +16,7 @@ particlesJS('particles-js', {
       distance: 100,
       color: '#fff',
       opacity: 1,
-      width: .5,
+      width: 1,
       condensed_mode: {
         enable: true,
         rotateX: 600,
