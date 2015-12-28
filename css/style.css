@@ -93,3 +93,15 @@ footer.page-footer {
 .club-name { 
   background-color: #7e57c2; 
 }
+
+a { 
+  color: #673ab7;
+}
+
+.about-special { 
+  font-weight: bolder; 
+}
+
+.logo { 
+  max-width: 500px; 
+}
