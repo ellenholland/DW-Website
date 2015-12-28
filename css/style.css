@@ -92,4 +92,19 @@ footer.page-footer {
 
 .club-name { 
   background-color: #7e57c2; 
+<<<<<<< HEAD
+=======
+}
+
+a { 
+  color: #673ab7;
+}
+
+.about-special { 
+  font-weight: bolder; 
+}
+
+.logo { 
+  max-width: 500px; 
+>>>>>>> refs/remotes/origin/winter-break-boredom
 }
